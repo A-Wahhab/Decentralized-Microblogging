@@ -1,2 +1,2 @@
 # Decentralized-Microblogging
-Decentralized Microblogging in Ethereum Blockchain using IPFS as storage
+Web Application for Decentralized Microblogging in Ethereum Blockchain using IPFS as storage
